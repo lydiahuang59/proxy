@@ -1,9 +1,9 @@
 /*
- * COMP 321 Project 6: Web Proxy
+ * COMP 3XX Project 6: Web Proxy
  *
  * This program implements a multithreaded HTTP proxy.
  *
- * Lydia Huang lwh1
+ * Lydia Huang
  */ 
 
 #include <assert.h>
